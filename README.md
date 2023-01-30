@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pathway+Gothic+One&weight=600&size=35&duration=3000&pause=1000&color=20F70E&center=true&vCenter=true&width=600&lines=Hi%2C+my+name+is+Calil!;I+have+21+years+old;I+graduating+information+systems;I+dream+to+become+frontend+developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pathway+Gothic+One&weight=600&size=35&duration=3000&pause=1000&color=20F70E&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Calil!;I+have+21+years+old;I+graduating+information+systems;I+dream+to+become+frontend+developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CBrandsDev&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Caio Reis github stats" /> 
