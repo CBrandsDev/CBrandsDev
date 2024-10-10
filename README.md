@@ -1,5 +1,4 @@
 
-![Snake animation](https://github.com/CBrandsDev/CBrandsDev/blob/output/github-contribution-grid-snake.svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pathway+Gothic+One&weight=600&size=35&duration=3000&pause=1000&color=20F70E&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Calil!;I+have+23+years+old;I+graduating+information+systems;I+dream+to+become+a+developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -15,3 +14,4 @@
     
 </div>
 
+![Snake animation](https://github.com/CBrandsDev/CBrandsDev/blob/output/github-contribution-grid-snake.svg)
