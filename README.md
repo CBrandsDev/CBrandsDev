@@ -19,4 +19,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FreitasAlien/FreitasAlien/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CBrandsDev&theme=dark" alt="GitHub Streak" /></a>
+</p>
